@@ -2,6 +2,7 @@
 
 #include <vespa/searchlib/attribute/searchcontextelementiterator.h>
 #include <vespa/searchlib/attribute/attributevector.h>
+#include <vespa/searchlib/attribute/attributevector.hpp>
 #include <vespa/searchlib/attribute/integerbase.h>
 #include <vespa/searchlib/attribute/attributefactory.h>
 #include <vespa/searchlib/queryeval/fake_search.h>
